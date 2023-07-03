@@ -1,0 +1,12 @@
+03/07/2023 08:19:24 PM: INFO: test_facebook_login1: test_002: This is test 002
+03/07/2023 08:19:24 PM: INFO: test_facebook_login1: test_002: Test case started
+03/07/2023 08:19:24 PM: INFO: test_facebook_login1: test_002: Entered correct username
+03/07/2023 08:19:24 PM: INFO: test_facebook_login1: test_002: Entered Wrong password
+03/07/2023 08:19:24 PM: INFO: test_facebook_login1: test_002: Clicked on login button
+03/07/2023 08:27:55 PM: INFO: test_facebook_login1: test_002: This is test 002
+03/07/2023 08:27:55 PM: INFO: test_facebook_login1: test_002: Test case started
+03/07/2023 08:27:55 PM: INFO: test_facebook_login1: test_002: Entered correct username
+03/07/2023 08:27:55 PM: INFO: test_facebook_login1: test_002: Entered Wrong password
+03/07/2023 08:27:55 PM: INFO: test_facebook_login1: test_002: Clicked on login button
+03/07/2023 08:28:06 PM: INFO: test_facebook_login1: test_002: Test Case 002 failed due to element not found
+03/07/2023 08:28:06 PM: CRITICAL: test_facebook_login1: test_002: Test Case 002 fail
